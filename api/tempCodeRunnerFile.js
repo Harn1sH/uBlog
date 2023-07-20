@@ -1,0 +1,1 @@
+const postDoc = await postModel.findOne(id);
