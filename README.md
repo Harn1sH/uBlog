@@ -16,4 +16,4 @@
  # Current State
  - [X] Code
  - [X] Styling
- - [] Hosting 
+ - [ ] Hosting 
